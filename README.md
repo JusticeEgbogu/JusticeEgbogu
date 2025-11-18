@@ -1,6 +1,6 @@
 # About me.
 
-I am an Electrical and Electronics Engineer currently working in the telecommunications industry. My strengths lie in marine VSAT, marine electronics, and networking. I’m  building my skills in Python and cybersecurity, and always open to collaborating on projects in these areas.
+Electrical and Electronics Engineer currently working in the telecommunications industry with strengths in marine VSAT, marine electronics, and networking. I’m  building my skills in Python and cybersecurity and open to collaborating on projects in these areas.
 <!--
 **JusticeEgbogu/JusticeEgbogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
